@@ -1,5 +1,5 @@
 #  About Me:
--> I’m currently contributing to the e-Mitra project<br>-> I’m open to collaborating on exciting development projects — feel free to share your ideas!<br>-> Always happy to connect and help with Spring Boot or Angular-based projects<br>-> Actively learning and implementing Spring Boot and Angular<br>-> Ask me anything about Java, Spring, Spring Boot, and Spring Security<br>-> Connect with me on LinkedIn<br>-> Check out all of my work on <br>-> I share my thoughts and learnings on <br>-> View my experience and skills in detail:<br>-> Fun fact: I enjoy turning complex problems into clean and efficient code — and love learning new tech every day!<br><br>
+-> I’m currently contributing to the e-Mitra project<br>-> I’m open to collaborating on exciting development projects — feel free to share your ideas!<br>-> Always happy to connect and help with Spring Boot or Angular-based projects<br>-> Actively learning and implementing Spring Boot and Angular<br>-> Ask me anything about Java, Spring, Spring Boot, and Spring Security<br>-> Connect with me on LinkedIn<br>
 
 
 ## 🌐 Socials:
